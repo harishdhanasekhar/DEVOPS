@@ -1,1 +1,1 @@
-modifig c.txt
+modi c.txt
